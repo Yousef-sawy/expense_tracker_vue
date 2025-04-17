@@ -12,7 +12,7 @@ This is a simple Vue.js 3 application that allows you to track your expenses and
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) 
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
 ## Customize Configuration
 
@@ -41,5 +41,3 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 
 ```sh
 npm run dev
- ```
-![mainPage](https://github.com/user-attachments/assets/b99896c8-e598-4a60-a471-e86461b3f101)
