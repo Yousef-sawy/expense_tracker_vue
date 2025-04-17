@@ -150,3 +150,46 @@ input[type='number'] {
 .list li:hover .delete-btn {
     opacity: 1;
 }
+
+/* 🔻 MOBILE STYLES 🔻 */
+@media (max-width: 480px) {
+    .container {
+        width: 90%;
+        margin: 20px;
+    }
+
+    body {
+        font-size: 16px;
+        padding: 10px;
+    }
+
+    .inc-exp-container {
+        flex-direction: column;
+        gap: 10px;
+        text-align: center;
+    }
+
+    .inc-exp-container > div:first-of-type {
+        border-right: none;
+        border-bottom: 1px solid #dedede;
+        padding-bottom: 10px;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+
+    .btn {
+        font-size: 14px;
+        padding: 8px;
+    }
+
+    input[type='text'],
+    input[type='number'] {
+        font-size: 14px;
+    }
+
+    .delete-btn {
+        font-size: 16px;
+    }
+}
