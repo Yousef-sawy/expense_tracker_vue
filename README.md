@@ -50,4 +50,6 @@ To start the development server with hot-reloading, which automatically updates 
 ```sh
 npm run dev
 ```
-![mainPage](https://github.com/user-attachments/assets/b99896c8-e598-4a60-a471-e86461b3f101)
+
+
+![Screenshot 2025-04-17 151253](https://github.com/user-attachments/assets/0eb85a58-e7ca-4737-b1fd-34a1ef32249c)
