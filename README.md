@@ -51,7 +51,8 @@ To start the development server with hot-reloading, which automatically updates 
 npm run dev
 ```
 ![pic2](https://github.com/user-attachments/assets/2cbc988d-b9bb-4442-b768-614124e467be)
-![pic1](https://github.com/user-attachments/assets/4f3da2a4-0bc0-47af-ae51-ae3e1102d6af)
+
+![pic1](https://github.com/user-attachments/assets/fd16acec-0329-4553-bcc3-4f31388a6411)
 
 
 
