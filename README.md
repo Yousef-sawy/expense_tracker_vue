@@ -41,3 +41,5 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 
 ```sh
 npm run dev
+ ```
+![mainPage](https://github.com/user-attachments/assets/b99896c8-e598-4a60-a471-e86461b3f101)
